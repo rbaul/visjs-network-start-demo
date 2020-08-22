@@ -1,6 +1,7 @@
-# VisjsNetworkDemo
+# VisJS-Network Deprecated project usage Demo
+> Deprecated project [visjs-network](https://github.com/almende/vis)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.4.
+![](doc-files/demo.PNG)
 
 ## Development server
 
